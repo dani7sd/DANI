@@ -1,0 +1,15 @@
+/* styles.css */
+
+.green-button {
+    background-color: yellow;
+    color: purple; /* Text color */
+    padding: 20px 40px; /* Adjust padding as needed */
+    border: green; /* Remove the default button border */
+    border-radius: 5px; /* Add rounded corners if desired */
+    cursor: pointer; /* Change cursor to a pointer on hover */
+}
+
+/* Hover effect (optional) */
+.green-button:hover {
+    background-color: darkgreen; /* Change color on hover */
+}
